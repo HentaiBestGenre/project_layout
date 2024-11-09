@@ -1,0 +1,10 @@
+uvicorn
+fastapi
+python-multipart
+httpx
+requests
+python-dotenv
+pydantic
+pydantic-settings
+python-json-logger
+asgi-correlation-id
